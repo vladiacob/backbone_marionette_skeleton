@@ -1,0 +1,18 @@
+{
+  "asi"      : false,
+  "laxbreak" : false,
+  "eqeqeq"   : true,
+  "evil"     : false,
+  "latedef"  : true,
+  "noarg"    : true,
+  "shadow"   : false,
+  "undef"    : false,
+  "newcap"   : true,
+  "nonew"    : true,
+  "latedef"  : "nofunc",
+  "sub"      : false,
+  "trailing" : true,
+  "indent"   : 2,
+  "debug"    : true,
+  "scripturl": true
+}

@@ -1,0 +1,16 @@
+/node_modules
+/tmp
+/public/index.html
+/public/assets/js
+/public/assets/css
+/public/assets/images/palette
+/app/api_config.js
+/app/scripts/vendor
+/bower_components
+npm-debug.log
+.sass-cache
+.grunt
+.idea
+*.swp
+*.swo
+/devel
