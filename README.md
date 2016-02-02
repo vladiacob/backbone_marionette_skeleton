@@ -18,6 +18,7 @@ How to Install
 3. Using an IDE replace `{:app_name}` with your application name. Characters which are allowd are [A-Za-z_-].
 4. Install NPM packages: `npm install`
 5. Install SASS compiler: `bundle install`
+6. Install JavaScript dependencies: `bower install`
 
 How to Develop
 --------------
