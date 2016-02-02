@@ -17,7 +17,7 @@ How to Install
 2. Install Grunt-cli and Bower: `npm install -g grunt-cli` and `npm install -g bower`
 3. Using an IDE replace `{:app_name}` with your application name. Characters which are allowd are [A-Za-z_-].
 4. Install NPM packages: `npm install`
-5. Install SASS compiler: `bundle install`
+5. Install SASS compiler: `bundle install` and `sudo gem install -n /usr/local/bin sass`
 6. Install JavaScript dependencies: `bower install`
 
 How to Develop
